@@ -1,0 +1,10 @@
+  Today I want to use burpsuite on Kali_Linux!But there is something trouble during this journey.
+So I have to rebuilt the environment of FireFox on My Kali.First differences is the git.There is a very easy app to use named FoxyProxy.
+On windos is OK,on Kali is not very well.
+  I go to search ,found that the verson on Kali is too old to install the FoxyProxy.So I Update the firefox on kali.This is the first time i update a soft-app on kali.
+I learned the operation at:  https://www.freebuf.com/column/192708.html
+  It's very useful to me.And then https://www.cnblogs.com/wanghaihong200/p/8727450.html is how to use FireFox and burpsuite toghther.
+  This time is very good,beacuse there isn't much problem.
+
+  Before do this,i always to delay this just only I think that maybe something diffcult.
+But! The truth is JUST DO IT.And you will find it's easy than your estimate so much more!
